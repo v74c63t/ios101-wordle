@@ -51,6 +51,20 @@ class LetterCell: UICollectionViewCell {
   func set(style: LetterCellStyle) {
     // START YOUR CODE HERE
     // ...
+      switch style {
+      case .initial:
+          layer.backgroundColor = UIColor.black.cgColor
+          layer.borderColor = UIColor.gray.cgColor
+      case .incorrect:
+          layer.backgroundColor = CGColor(red:CGFloat(0.23),green:CGFloat(0.23),blue:CGFloat(0.24),alpha: 1.0)
+          layer.borderColor = CGColor(red:CGFloat(0.23),green:CGFloat(0.23),blue:CGFloat(0.24),alpha: 1.0)
+      case .correctLetterOnly:
+          layer.backgroundColor = CGColor(red:CGFloat(0.69),green:CGFloat(0.63),blue:CGFloat(0.30),alpha: 1.0)
+          layer.borderColor = CGColor(red:CGFloat(0.69),green:CGFloat(0.63),blue:CGFloat(0.30),alpha: 1.0)
+      case .correctLetterAndPosition:
+          layer.backgroundColor = CGColor(red:CGFloat(0.38),green:CGFloat(0.55),blue:CGFloat(0.33),alpha: 1.0)
+          layer.borderColor = CGColor(red:CGFloat(0.38),green:CGFloat(0.55),blue:CGFloat(0.33),alpha: 1.0)
+      }
     // END YOUR CODE HERE
   }
 }
