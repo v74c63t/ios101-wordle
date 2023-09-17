@@ -1,18 +1,18 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *Wordle*
 
-Submitted by: **Your Name Here**
+Submitted by: **Vanessa Tang**
 
-**Name of your app** is an app that ... [TODO] 
+**Wordle** is an app that ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **X** hours spent in total so far: 2 hrs
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] App displays a keyboard on the screen
-- [ ] When tapping on the keyboard, a letter is shown or deleted (letter selected)
-- [ ] User can play a basic version of Wordle, with different goal words each time
+- [x] App displays a keyboard on the screen
+- [x] When tapping on the keyboard, a letter is shown or deleted (letter selected)
+- [x] User can play a basic version of Wordle, with different goal words each time
 
 The following **optional** features are implemented:
 
@@ -36,7 +36,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Vanessa Tang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
