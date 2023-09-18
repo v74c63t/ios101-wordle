@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Improve and customize the user interface by adding a launchscreen and app icon
+- [x] Improve and customize the user interface by adding a launchscreen and app icon
 - [ ] Run the app on a device rather than in the simulator
 
 The following **additional** features are implemented:
