@@ -4,7 +4,7 @@ Submitted by: **Vanessa Tang**
 
 **Wordle** is an app that ... [TODO] 
 
-Time spent: **X** hours spent in total so far: 2 hrs
+Time spent: **X** hours spent in total so far: 3 hrs
 
 ## Required Features
 
