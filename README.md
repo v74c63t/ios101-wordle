@@ -34,6 +34,8 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 Describe any challenges encountered while building the app.
 
+- I did not encounter any significant challenges while building the app.
+
 ## License
 
     Copyright [2023] [Vanessa Tang]
