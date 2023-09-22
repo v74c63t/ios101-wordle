@@ -4,7 +4,7 @@ Submitted by: **Vanessa Tang**
 
 **Wordle** is an app that allows users to play a word game in which they try to guess a 5 lettered word in 6 tries. When guessing, the app will inform users if a letter appears in the word or not and if it is in the correct position or not by using different background colors. It is essentially a very simple version of Wordle.
 
-Time spent: **X** hours spent in total so far: 3 hrs
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -25,9 +25,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+<!-- Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) . -->
+
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
